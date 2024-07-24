@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+	printf("Akhil (192211208)\n");
+    char str[100];
+    printf("Enter the string:");
+    scanf("%s",&str);
+    int y=strlen(str);
+    printf("The length of string is %d",y);
+    return 0;
+}
