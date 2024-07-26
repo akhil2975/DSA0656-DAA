@@ -19,7 +19,7 @@ int binomialCoeff(int n, int k) {
 
 int main() {
     int n = 5, k = 2;
-    printf(" gowrinadh (192211043)\n");
+    printf(" Akhil (192211208)\n");
     printf("Value of C(%d, %d) is %d\n", n, k, binomialCoeff(n, k));
     return 0;
 }
