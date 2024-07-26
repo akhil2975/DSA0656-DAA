@@ -45,7 +45,7 @@ void printArray(int arr[], int size) {
     printf("\n");
 }
 int main() {
-	printf("gowrinadh (192211043)\n");
+	printf("Akhil (192211208)\n");
     int arr[] = {12, 11, 13, 5, 6, 7};
     int arr_size = sizeof(arr) / sizeof(arr[0]);
     printf("Given array is \n");
