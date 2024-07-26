@@ -26,7 +26,7 @@ int main() {
     int arr[] = {3, 5, 1, 8, 4, 9, 2};
     int n = sizeof(arr) / sizeof(arr[0]);
     int max, min;
-    printf(" Gowrinadh (192211043)\n");
+    printf(" Akhil (192211208)\n");
 
     findMaxMin(arr, 0, n - 1, &max, &min);
 
