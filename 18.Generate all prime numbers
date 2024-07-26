@@ -26,7 +26,7 @@ void generatePrimes(int n) {
 
 int main() {
     int n;
-    printf(" gowrinadh (192211043)\n");
+    printf(" Akhil (192211208)\n");
     printf("Enter the upper limit to generate prime numbers: ");
     scanf("%d", &n);
 
