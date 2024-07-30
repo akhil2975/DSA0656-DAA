@@ -17,7 +17,7 @@ void printPascalTriangle(int n) {
 }
 
 int main() {
-	printf("D.Madhavan-192225070\n");
+	printf(" Akhil (192211208)\n");
     int n = 5;
     printPascalTriangle(n);
 
